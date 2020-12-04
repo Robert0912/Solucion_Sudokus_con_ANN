@@ -28,15 +28,15 @@ numpy - 1.18.5
 ## Estructuras de red neuronal propuestas
 
 Estructura para red neuronal 1:
-![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Modelo_ANN_1.png "Estructura para red neuronal 1")
+![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Imagenes/Modelo_ANN_1.png "Estructura para red neuronal 1")
 
 Estructura para red neuronal 2: 
-![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Modelo_ANN_2.png "Estructura para red neuronal 2")
+![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Imagenes/Modelo_ANN_2.png "Estructura para red neuronal 2")
 
 ## Rendimiento y exactitud
 
 Inline-style: 
-![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Im%C3%A1genes/img1.PNG "Resultados")
+![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Imagenes/img1.PNG "Resultados")
 
 ## Referencias
 
