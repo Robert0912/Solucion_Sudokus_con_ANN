@@ -36,7 +36,7 @@ Estructura para red neuronal 2:
 ## Rendimiento y exactitud
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resultados")
+![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Im%C3%A1genes/img1.PNG "Resultados")
 
 ## Referencias
 
