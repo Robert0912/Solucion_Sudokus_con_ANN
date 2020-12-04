@@ -25,9 +25,17 @@ numpy - 1.18.5
 | Solucion_De_Sudokus_con_ANN.pdf      | Informe sobre los resultados de la red                        |
 | LICENSE                              | Licencia                                                      |
 
-## Funcionamiento
+## Estructuras de red neuronal propuestas
 
+Inline-style: 
+![alt text](https://github.com/Robert0912/Solucion_Sudokus_con_ANN/blob/main/Modelo_ANN_1.png "Estructura para red neuronal 1")
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Estructura para red neuronal 2")
 
+## Rendimiento y exactitud
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resultados")
 
 ## Referencias
 
