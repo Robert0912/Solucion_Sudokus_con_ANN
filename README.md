@@ -40,3 +40,4 @@ Estructura para red neuronal 2:
 ## Referencias
 
 Para consultar el dataset puede ir a https://www.kaggle.com/bryanpark/sudoku
+Para consultar el video de la presentacion ir a https://youtu.be/FmE-bckB1w0
